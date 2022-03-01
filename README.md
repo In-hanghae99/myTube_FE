@@ -19,4 +19,6 @@
 <a href="https://github.com/donghyeon23/myTube_BE.git"> 💻 BE 깃허브 주소_Mytube (=Youtube) (클릭)</a></br>
 <a href="https://youtu.be/VU1IGQCGfB4"> 💻 클론코딩 Mytube (=Youtube) 데모 영상 (클릭)</a>
 
+https://www.youtube.com/watch?v=VU1IGQCGfB4&feature=youtu.be
+
 </br>
