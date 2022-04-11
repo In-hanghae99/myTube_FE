@@ -14,7 +14,6 @@
 - 프로젝트 주소:</br>
 <a href="https://www.notion.so/7-befff5fbc81640799404a0c0b05d8d40"> 💻 S.A. 주소_Mytube (=Youtube) (클릭)</a></br>
 <a href="https://www.figma.com/file/6zuIPjlIhHjcr42B7SYcYq/Untitled?node-id=0%3A1"> 💻 와이어프레임 피그마 주소_Mytube (=Youtube) (클릭)</a></br>
-<a href="http://clonemytube.shop/"> 💻 배포된 주소_Mytube (=Youtube) (클릭)</a></br>
 <a href="https://github.com/yun2021/myTube_FE.git"> 💻 FE 깃허브 주소_Mytube (=Youtube) (클릭)</a></br>
 <a href="https://github.com/donghyeon23/myTube_BE.git"> 💻 BE 깃허브 주소_Mytube (=Youtube) (클릭)</a></br>
 <a href="https://youtu.be/VU1IGQCGfB4"> 💻 클론코딩 Mytube (=Youtube) 데모 영상 (클릭)</a>
